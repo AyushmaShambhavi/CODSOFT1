@@ -63,10 +63,6 @@ This project is an Employee Punching System that leverages advanced face recogni
 - `model/`: Directory containing the face detection model.
 - `Attendance/`: Directory where attendance logs are saved.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
 
 This README file should provide a clear understanding of the project's functionality and how to set it up and use it.
